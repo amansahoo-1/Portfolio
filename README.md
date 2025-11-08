@@ -38,10 +38,6 @@ Visit the live portfolio:
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/PremPrakashCodes/portfolio.git
-   cd portfolio
-   ```
 
 2. **Install dependencies**
 
